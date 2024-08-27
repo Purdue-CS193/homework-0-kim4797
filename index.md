@@ -11,6 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+
 # Header 1
 ## Header 2
 ### Header 3
@@ -25,6 +26,14 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Logan Kim's First CS193 Homework
+
+# Favorite Things about CS193
+- the culture
+- the commitment
+- the dedication
+- lebron james
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
